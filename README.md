@@ -7,4 +7,8 @@
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
 <!-- MEDIUM:END -->
 
+---
+
 [![Hans's github stats](https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&hide_border=true&count_private=true)](https://github.com/hjemmel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel)](https://github.com/hjemmel)
