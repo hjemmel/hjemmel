@@ -2,11 +2,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### :blue_book: Medium Activity
 <!-- MEDIUM:START -->
 - [Gmail filters as a code](https://medium.com/swlh/gmail-filters-as-a-code-670fd719f473?source=rss-a11e11ccf41a------2)
