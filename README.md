@@ -6,3 +6,5 @@
 - [How was to start a new job during the isolation](https://medium.com/@hjemmel/how-was-start-a-new-job-during-the-isolation-82146b13dc27?source=rss-a11e11ccf41a------2)
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
 <!-- MEDIUM:END -->
+
+[![Hans's github stats](https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&hide_border=true&count_private=true)](https://github.com/hjemmel)
