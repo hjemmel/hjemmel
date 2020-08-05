@@ -1,3 +1,7 @@
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### :blue_book: Medium Activity
