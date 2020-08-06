@@ -22,6 +22,7 @@
 ### :blue_book: Medium Activity
 
 <!-- MEDIUM:START -->
+
 - [Gmail filters as a code](https://medium.com/swlh/gmail-filters-as-a-code-670fd719f473?source=rss-a11e11ccf41a------2)
 - [How was to start a new job during the isolation](https://medium.com/@hjemmel/how-was-start-a-new-job-during-the-isolation-82146b13dc27?source=rss-a11e11ccf41a------2)
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
@@ -29,11 +30,11 @@
 
 ---
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&hide=actionscript&title_color=ffffff&text_color=c9cacc&icon_color=00999d&bg_color=0f2f53" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&hide=actionscript&icon_color=00999d" />
 </a>
 <a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00999d&bg_color=0f2f53" alt="Hans's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&icon_color=00999d" alt="Hans's GitHub Stats" />
 </a>
