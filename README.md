@@ -13,6 +13,10 @@
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=00999d&logo=javascript&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=00999d&logo=postgresql&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=00999d&logo=mysql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00999d&logo=docker&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Console&message=PlayStation&color=00999d&logo=playstation&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Console&message=PlayStation&color=00999d&logo=playstation&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Console&message=Switch&color=00999d&logo=Nintendo%20Switch&logoColor=white&style=flat)
 
 ---
 
