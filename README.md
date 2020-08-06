@@ -1,6 +1,9 @@
-# Hi There, I am Hans Jakob <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px">
+# Hi There <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px">
 
-My name is Hans Jakob Emmel and I'm a software engineer. I'm from Brazil, living in New Zealand and _currently relentlessly driving towards the future to make educatation great at [Xplor](https://ourxplor.com/) :rocket:_.
+[![Linkedin Badge](https://img.shields.io/badge/-hjemmel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjemmel)](https://www.linkedin.com/in/hjemmel)
+[![Medium Badge](https://img.shields.io/badge/-@hjemmel-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@hjemmel)](https://medium.com/@hjemmel)
+
+My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _currently relentlessly driving towards the future to make educatation great as software engineer at [Xplor](https://ourxplor.com/) :rocket:_.
 
 ---
 
@@ -24,6 +27,7 @@ My name is Hans Jakob Emmel and I'm a software engineer. I'm from Brazil, living
 ### :blue_book: Medium Activity
 
 <!-- MEDIUM:START -->
+
 - [Gmail filters as a code](https://medium.com/swlh/gmail-filters-as-a-code-670fd719f473?source=rss-a11e11ccf41a------2)
 - [How was to start a new job during the isolation](https://medium.com/@hjemmel/how-was-start-a-new-job-during-the-isolation-82146b13dc27?source=rss-a11e11ccf41a------2)
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
