@@ -1,4 +1,6 @@
-# Work in progress
+# Hi There, I am Hans Jakob <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px">
+
+My name is Hans Jakob Emmel and I'm a software engineer. I'm from Brazil, living in New Zealand and _currently relentlessly driving towards the future to make educatation great at [Xplor](https://ourxplor.com/) :rocket:_.
 
 ---
 
