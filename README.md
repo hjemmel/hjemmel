@@ -5,8 +5,6 @@
 
 My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _currently relentlessly driving towards the future to make educatation great as software engineer at [Xplor](https://ourxplor.com/) :rocket:_.
 
----
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&color=00999d&logo=apple&logoColor=white&style=flat)
@@ -22,9 +20,7 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _current
 ![](https://img.shields.io/static/v1?label=Console&message=PlayStation&color=00999d&logo=playstation&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=Console&message=Switch&color=00999d&logo=Nintendo%20Switch&logoColor=white&style=flat)
 
----
-
-### :blue_book: Medium Activity
+## :blue_book: Medium Activity
 
 <!-- MEDIUM:START -->
 
@@ -33,9 +29,7 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _current
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
 <!-- MEDIUM:END -->
 
----
-
-### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hjemmel/hjemmel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&count_private=true&hide=actionscript&title_color=0f2f53&icon_color=00999d" />
