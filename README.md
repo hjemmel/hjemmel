@@ -4,15 +4,15 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/static/v1?label=OS&message=macOS&color=0f2f53&logo=apple&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=0f2f53&logo=Visual%20Studio%20Code&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Shell&message=Zsh&color=0f2f53&logo=GNU%20Bash&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=0f2f53&logo=elixir&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=React&color=0f2f53&logo=react&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=0f2f53&logo=typescript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=0f2f53&logo=javascript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=0f2f53&logo=postgresql&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=0f2f53&logo=mysql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=OS&message=macOS&color=00999d&logo=apple&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=00999d&logo=Visual%20Studio%20Code&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Shell&message=Zsh&color=00999d&logo=GNU%20Bash&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=00999d&logo=elixir&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=React&color=00999d&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=00999d&logo=typescript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=00999d&logo=javascript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=00999d&logo=postgresql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=00999d&logo=mysql&logoColor=white&style=flat)
 
 ---
 
