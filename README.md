@@ -4,15 +4,15 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/static/v1?label=OS&message=macOS&color=blue&logo=apple&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&logo=Visual%20Studio%20Code&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Shell&message=Zsh&color=blue&logo=GNU%20Bash&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=blue&logo=elixir&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=React&color=blue&logo=react&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=blue&logo=typescript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=blue&logo=javascript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=blue&logo=postgresql&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=blue&logo=mysql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=OS&message=macOS&color=00999d&logo=apple&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=00999d&logo=Visual%20Studio%20Code&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Shell&message=Zsh&color=00999d&logo=GNU%20Bash&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=00999d&logo=elixir&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=React&color=00999d&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=00999d&logo=typescript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=00999d&logo=javascript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=00999d&logo=postgresql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=00999d&logo=mysql&logoColor=white&style=flat)
 
 ---
 
