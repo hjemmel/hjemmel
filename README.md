@@ -30,6 +30,9 @@
 
 ---
 
-[![Hans's github stats](https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&hide_border=true&count_private=true)](https://github.com/hjemmel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel)](https://github.com/hjemmel)
+<a href="https://github.com/hjemmel/hjemmel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&hide=actionscript&icon_color=2bbc8a" />
+</a>
+<a href="https://github.com/hjemmel/hjemmel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&icon_color=2bbc8a" alt="Hans's GitHub Stats" />
+</a>
