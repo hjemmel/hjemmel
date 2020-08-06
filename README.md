@@ -5,6 +5,8 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&color=blue&logo=apple&style=flat)
+![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&logo=Visual%20Studio%20Code&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=blue&logo=elixir&style=flat)
 ![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=blue&logo=elixir&style=flat)
 
 ---
