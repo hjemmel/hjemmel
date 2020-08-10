@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/banner.png "Header")]
+![Header](https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/banner.png "Header")
 
 # Hi There <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px">
 
