@@ -25,17 +25,20 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _current
 ## :blue_book: Medium Activity
 
 <!-- MEDIUM:START -->
+
 - [Dealing with loss](https://medium.com/@hjemmel/dealing-with-loss-4f676797d591?source=rss-a11e11ccf41a------2)
 - [Gmail filters as a code](https://medium.com/swlh/gmail-filters-as-a-code-670fd719f473?source=rss-a11e11ccf41a------2)
 - [How was to start a new job during the isolation](https://medium.com/@hjemmel/how-was-start-a-new-job-during-the-isolation-82146b13dc27?source=rss-a11e11ccf41a------2)
 - [Updating dependencies automatically](https://medium.com/swlh/updating-dependencies-automatically-4a765307117a?source=rss-a11e11ccf41a------2)
 <!-- MEDIUM:END -->
 
-## &#x1f4c8; GitHub Stats
+<details>
+  <summary>&#x1f4c8; GitHub Stats</summary>
 
-<a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&count_private=true&hide=actionscript&title_color=0f2f53&icon_color=00999d" />
-</a>
-<a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&title_color=0f2f53&icon_color=00999d" alt="Hans's GitHub Stats" />
-</a>
+  <a href="https://github.com/hjemmel/hjemmel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&count_private=true&hide=actionscript&title_color=0f2f53&icon_color=00999d" />
+  </a>
+  <a href="https://github.com/hjemmel/hjemmel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&title_color=0f2f53&icon_color=00999d" alt="Hans's GitHub Stats" />
+  </a>
+<details>
