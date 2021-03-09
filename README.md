@@ -25,6 +25,7 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _current
 ## :blue_book: Medium Activity
 
 <!-- MEDIUM:START -->
+- [Moving countries during the pandemic](https://medium.com/@hjemmel/moving-countries-during-the-pandemic-5f0ac33e00f4?source=rss-a11e11ccf41a------2)
 - [Dealing with loss](https://medium.com/@hjemmel/dealing-with-loss-4f676797d591?source=rss-a11e11ccf41a------2)
 - [Gmail filters as a code](https://medium.com/swlh/gmail-filters-as-a-code-670fd719f473?source=rss-a11e11ccf41a------2)
 - [How was to start a new job during the isolation](https://medium.com/@hjemmel/how-was-start-a-new-job-during-the-isolation-82146b13dc27?source=rss-a11e11ccf41a------2)
