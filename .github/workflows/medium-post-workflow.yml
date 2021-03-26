@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated readme with the latest medium blog posts"
-          feed_list: "https://medium.com/feed/@hjemmel"
+          feed_list: "https://hjemmel.medium.com/feed"
