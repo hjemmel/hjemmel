@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
+      - name: Generate snake chart 🐍
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -19,10 +20,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.7
+      - name: Push changes 🚀
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          branch: static # The branch the action should deploy to.
-          folder: images # The folder the action should deploy.
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
