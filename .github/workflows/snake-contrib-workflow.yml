@@ -24,3 +24,5 @@ jobs:
         with:
           branch: static # The branch the action should deploy to.
           folder: images # The folder the action should deploy.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
