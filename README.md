@@ -40,3 +40,6 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _current
 <a href="https://github.com/hjemmel/hjemmel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&title_color=0f2f53&icon_color=00999d" alt="Hans's GitHub Stats" />
 </a>
+<a href="https://github.com/hjemmel/hjemmel">
+  <img align="center" src="https://raw.githubusercontent.com/hjemmel/hjemmel/output/snake-contribution-grid.svg" />
+</a>
