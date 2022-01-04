@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - name: Generate snake chart 🐍
       - uses: Platane/snk@master
         id: snake-gif
         with:
