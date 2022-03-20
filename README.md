@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hjemmel-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjemmel)](https://www.linkedin.com/in/hjemmel)
 [![Medium Badge](https://img.shields.io/badge/-@hjemmel-000000?style=for-the-badge&&labelColor=000000&logo=Medium&link=https://medium.com/@hjemmel)](https://medium.com/@hjemmel)
 
-My name is Hans Jakob Emmel. I'm from Brazil, living in New Zealand and _currently relentlessly driving towards the future to make education great as software engineer at [Xplor](https://ourxplor.com/) :rocket:_.
+My name is Hans Jakob Emmel. I'm from Brazil, living in Australia and _currently relentlessly driving towards the future to make education great as software engineer at [Xplor](https://ourxplor.com/) :rocket:_.
 
 ## 🔧 Technologies & Tools
 
