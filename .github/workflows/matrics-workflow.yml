@@ -114,7 +114,7 @@ jobs:
           base: ""
           plugin_rss: yes
           plugin_rss_source: https://hjemmel.medium.com/feed
-          plugin_rss_limit: 4
+          plugin_rss_limit: 5
 
   issue_pr_lang:
     runs-on: ubuntu-latest
