@@ -104,6 +104,18 @@ jobs:
           plugin_habits_charts: yes # Display charts section
           plugin_habits_trim: yes # Trim unused hours on daily chart
 
+  medium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: medium.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://hjemmel.medium.com/feed
+          plugin_rss_limit: 4
+
   issue_pr_lang:
     runs-on: ubuntu-latest
     steps:
