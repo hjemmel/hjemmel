@@ -35,6 +35,11 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in Australia and _currently
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hjemmel">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+
+<a href="https://github.com/hjemmel">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
 <a href="https://github.com/hjemmel">
