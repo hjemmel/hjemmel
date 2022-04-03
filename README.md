@@ -41,13 +41,17 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in Australia and _currently
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
+<a href="https://github.com/hjemmel">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-<a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjemmel&count_private=true&hide=actionscript&title_color=0f2f53&icon_color=00999d" />
+<a href="https://github.com/hjemmel">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
-<a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjemmel&show_icons=true&line_height=27&count_private=true&title_color=0f2f53&icon_color=00999d" alt="Hans's GitHub Stats" />
+
+<a href="https://github.com/hjemmel">
+  <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<a href="https://github.com/hjemmel/hjemmel">
-  <img align="center" src="https://raw.githubusercontent.com/hjemmel/hjemmel/output/snake-contribution-grid.svg" />
+<a href="https://github.com/hjemmel">
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
