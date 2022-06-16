@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/banner.png "Header")
 
-# Hi There <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px">
+# Hi There <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px" height="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-hjemmel-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjemmel)](https://www.linkedin.com/in/hjemmel)
 [![Medium Badge](https://img.shields.io/badge/-@hjemmel-000000?style=for-the-badge&&labelColor=000000&logo=Medium&link=https://medium.com/@hjemmel)](https://medium.com/@hjemmel)
