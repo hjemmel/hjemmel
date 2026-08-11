@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hjemmel-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hjemmel)
 [![Medium Badge](https://img.shields.io/badge/-@hjemmel-123B5E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@hjemmel)
 
-My name is Hans Jakob Emmel — a software engineer from Brazil, living in Australia :australia:
+My name is Hans Jakob Emmel. I'm a software engineer from Brazil, living in Australia :australia:
 
 _Currently building software at **[Atlassian](https://www.atlassian.com/)**_ :rocket:
 
