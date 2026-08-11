@@ -2,25 +2,38 @@
 
 # Hi There <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="30px" height="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-hjemmel-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjemmel)](https://www.linkedin.com/in/hjemmel)
-[![Medium Badge](https://img.shields.io/badge/-@hjemmel-000000?style=for-the-badge&&labelColor=000000&logo=Medium&link=https://medium.com/@hjemmel)](https://medium.com/@hjemmel)
+[![Linkedin Badge](https://img.shields.io/badge/-hjemmel-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hjemmel)
+[![Medium Badge](https://img.shields.io/badge/-@hjemmel-123B5E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@hjemmel)
 
-My name is Hans Jakob Emmel. I'm from Brazil, living in Australia and _currently relentlessly driving towards the future to make education great as software engineer at [Xplor](https://ourxplor.com/) :rocket:_.
+My name is Hans Jakob Emmel — a software engineer from Brazil, living in Australia :australia:
+
+_Currently building software at **[Atlassian](https://www.atlassian.com/)**_ :rocket:
 
 ## 🔧 Technologies & Tools
 
+**Languages**
+
+![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=00999d&logo=elixir&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=00999d&logo=typescript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=00999d&logo=javascript&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Code&message=React&color=00999d&logo=react&logoColor=white&style=flat)
+
+**Data**
+
+![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=00999d&logo=postgresql&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=00999d&logo=mysql&logoColor=white&style=flat)
+
+**Tooling**
+
+![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00999d&logo=docker&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&color=00999d&logo=apple&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=00999d&logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 ![](https://img.shields.io/static/v1?label=Shell&message=Zsh&color=00999d&logo=GNU%20Bash&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=Elixir&color=00999d&logo=elixir&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=React&color=00999d&logo=react&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=00999d&logo=typescript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=00999d&logo=javascript&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=00999d&logo=postgresql&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=00999d&logo=mysql&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00999d&logo=docker&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Console&message=PlayStation&color=00999d&logo=playstation&logoColor=white&style=flat)
-![](https://img.shields.io/static/v1?label=Console&message=Switch&color=00999d&logo=Nintendo%20Switch&logoColor=white&style=flat)
+
+**Off the clock**
+
+![](https://img.shields.io/static/v1?label=Console&message=PlayStation&color=123B5E&logo=playstation&logoColor=white&style=flat)
+![](https://img.shields.io/static/v1?label=Console&message=Switch&color=123B5E&logo=Nintendo%20Switch&logoColor=white&style=flat)
 
 ## :blue_book: Medium Activity
 
@@ -34,31 +47,16 @@ My name is Hans Jakob Emmel. I'm from Brazil, living in Australia and _currently
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/hjemmel">
-    <img align="center" width="49%" src="./header.svg" />
-  </a>
-</p>
-<br/>
-
+<a href="https://github.com/hjemmel">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
 <a href="https://github.com/hjemmel">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
-<a href="https://github.com/hjemmel">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
 
 <a href="https://github.com/hjemmel">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/hjemmel">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/hjemmel">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="center" width="49%" src="./isocalendar.svg" />
 </a>
 <a href="https://github.com/hjemmel">
-    <img align="center" width="49%" src="./achievements.svg" />
+  <img align="center" width="49%" src="./achievements.svg" />
 </a>
