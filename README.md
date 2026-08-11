@@ -7,8 +7,7 @@
 
 My name is Hans Jakob Emmel — a software engineer from Brazil, living in Australia :australia:
 
-<!-- TODO(hjemmel): update current role/company -->
-_Currently building software at **[company]**_ :rocket:
+_Currently building software at **[Atlassian](https://www.atlassian.com/)**_ :rocket:
 
 ## 🔧 Technologies & Tools
 
